@@ -1,7 +1,11 @@
 ## ¡Hola! Soy Emilio Avelar👋
 * **Estudiante de Ingenieria Informatica.** 💻
 * Me gusta mucho el futbol. ⚽
+* Espero aprender mucho en esta materia y poder manejar muchas herramientas en el futuro. 📓
 
+  ## Sobre mi.
+  * Me gusta escuchar musica.🎵
+  * Me gusta mucho trabajar con computadoras.🖥️
 <!--
 **EmilioAvelar/EmilioAvelar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
